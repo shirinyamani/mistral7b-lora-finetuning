@@ -1,5 +1,5 @@
 # mistral7b-lora-finetuning
-![alt text](image.png)
+![alt text](./notebook/image.png)
 
 Fine-tuning Mistral-7B with PEFT and Qlora config in 4-bit mode on [openassistant-guanaco](timdettmers/openassistant-guanaco) dataset.
 
