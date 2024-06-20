@@ -7,7 +7,6 @@
 This model is a fine-tuned version of [mistralai/Mistral-7B-v0.1](https://huggingface.co/mistralai/Mistral-7B-v0.1) on  [timdettmers/openassistant-guanaco](https://huggingface.co/datasets/timdettmers/openassistant-guanaco) dataset.
 
 ## Usage guidance
-
 Please refer to [this notebook](https://github.com/shirinyamani/mistral7b-lora-finetuning/blob/main/misral_7B_updated.ipynb) for a complete demo including notes regarding cloud deployment
 
 ## Inference
